@@ -1,0 +1,6 @@
+[12-Mar-2016 04:02:56 America/Denver] PHP Notice:  Undefined index: top_bar_text in /home2/saisurya/public_html/catalog/view/theme/beamstore/css/custom_color.css.php on line 186
+[12-Mar-2016 04:02:56 America/Denver] PHP Notice:  Undefined index: top_bar_background_color in /home2/saisurya/public_html/catalog/view/theme/beamstore/css/custom_color.css.php on line 199
+[12-Mar-2016 04:02:56 America/Denver] PHP Notice:  Undefined index: top_bar_border_color in /home2/saisurya/public_html/catalog/view/theme/beamstore/css/custom_color.css.php on line 205
+[12-Mar-2016 04:02:56 America/Denver] PHP Notice:  Undefined index: top_cart_arrow_background_gradient_top in /home2/saisurya/public_html/catalog/view/theme/beamstore/css/custom_color.css.php on line 212
+[12-Mar-2016 04:02:56 America/Denver] PHP Notice:  Undefined index: top_cart_text_color in /home2/saisurya/public_html/catalog/view/theme/beamstore/css/custom_color.css.php on line 225
+[12-Mar-2016 04:02:56 America/Denver] PHP Notice:  Undefined index: top_cart_icon_color in /home2/saisurya/public_html/catalog/view/theme/beamstore/css/custom_color.css.php on line 231
